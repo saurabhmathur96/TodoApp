@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Todos>
+    <Todo>
+        <Description>Complete Todo Program</Description>
+        <Category>Programming</Category>
+        <Category>Java</Category>
+        <Category>Todos</Category>
+    </Todo>
+    <Todo>
+        <Description>Learn Programming in Java</Description>
+        <Category>Java</Category>
+    </Todo>
+    <Todo>
+        <Description>Make Xml File</Description>
+        <Category>Markup</Category>
+        <Category>XML</Category>
+        <Category>Programming</Category>
+    </Todo>
+    <Todo>
+        <Description>Eat Food</Description>
+        <Category>Food</Category>
+    </Todo>
+    <Todo>
+        <Description>Go to McDonalds</Description>
+        <Category>Food</Category>
+        <Category>McDonalds</Category>
+    </Todo>
+    <Todo>
+        <Description>Eat McFlurry</Description>
+        <Category>Food</Category>
+        <Category>Ice-Cream</Category>
+    </Todo>
+</Todos>
